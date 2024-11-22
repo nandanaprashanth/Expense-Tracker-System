@@ -13,4 +13,6 @@ A simple and elegant web-based application for tracking expenses, managing budge
 - **Delete Functionality**: Remove individual expenses to keep your list up to date.
 - **Persistent Data**: Save data in local storage to retain it across browser sessions.
 - **Responsive Design**: Fully responsive for use on mobile, tablet, and desktop devices.
+
+- 
 ![expense](https://github.com/user-attachments/assets/03499c0d-c5ea-40b1-90a8-81aa97c2bb49)
